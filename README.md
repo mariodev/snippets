@@ -2,6 +2,7 @@ Sublime Text 2 Custom Snippets
 ==============================
 
 
-###Snippets details:
+###Snippets usage:
 
-* HTML5 - html5 boilerplate
+* html5 - html5 boilerplate
+* js	- include js file
