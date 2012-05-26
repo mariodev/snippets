@@ -40,9 +40,3 @@
   <tabTrigger>html5</tabTrigger>
   <description>extended html5</description>
 </snippet>
-
-<snippet>
-  <content><![CDATA[<script src="${1:/static/js/application.js}"></script>]]></content>
-  <tabTrigger>js</tabTrigger>
-  <description>include js file</description>
-</snippet>
